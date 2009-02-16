@@ -1,0 +1,28 @@
+8
+
+dir
+54
+svn+ssh://svn/var/svn/cpan/trunk/Net-Twitter-RandomUpdate/t
+svn+ssh://svn/var/svn/cpan
+
+
+
+2009-02-16T05:25:12.264769Z
+54
+trevor
+
+
+svn:special svn:externals svn:needs-lock
+
+001-net_twitter_randomupdate.t
+file
+
+
+
+
+2009-02-16T05:23:37.000000Z
+54c4fd5e199d1f84a4901a88a14561f5
+2009-02-16T05:25:12.264769Z
+54
+trevor
+
