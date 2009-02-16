@@ -5,7 +5,7 @@ use warnings;
 
 use Net::Twitter;
 
-our $VERSION = join( '.', 1, map{ $_ - 53 } ( '$Rev: 55 $' =~ /(\d+)/g ) ); 
+our $VERSION = join( '.', 1, map{ $_ - 53 } ( '$Rev: 59 $' =~ /(\d+)/g ) ); 
 
 my $quotes = [
     'How to store your baby walker: First, remove baby.',
@@ -159,3 +159,4 @@ This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
 
 =cut
+
